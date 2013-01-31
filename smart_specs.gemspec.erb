@@ -1,0 +1,21 @@
+# -*- encoding: utf-8 -*-
+
+require File.expand_path(File.dirname(__FILE__) + '/lib/smart_specs/version')
+
+Gem::Specification.new do |spec|
+  spec.name          = "smart_specs"
+  spec.summary       = %q{This tool helps to execute specs by pattern}
+  spec.description   = %q{This tool helps to execute specs by pattern}
+  spec.email         = "alexander.shvets@gmail.com"
+  spec.authors       = ["Alexander Shvets"]
+  spec.homepage      = "http://github.com/shvets/smart_specs"
+
+  spec.files         = `git ls-files`.split($\)
+  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
+  spec.require_paths = ["lib"]
+  spec.executables   = ["spec!"]
+  spec.version       = SmartSpecs::VERSION
+
+  <%= include_dependencies %>
+end
+
