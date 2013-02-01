@@ -1,55 +1,9 @@
 #!/usr/bin/env ruby
 
-#$LOAD_PATH << File.dirname(__FILE__) + "/../lib" if $0 == __FILE__
-$:.unshift(File::join(File::dirname(File::dirname(__FILE__)), "../lib"))
+$:.unshift(File::join(File::dirname(File::dirname(__FILE__)), "/lib"))
 
 require 'smart_specs'
 
-class Runner
-  def initialize
-    @spec = SmartSpec.new(".")
-  end
+trap(:INT) { exit }
 
-  USAGE= <<-TEXT
-    Usage:
-     spec! user       - executes spec based on <user> pattern
-     spec! user -l 65 - executes spec based on <user> pattern in line 65
-     spec! --list     - displays list of all available specs
-     spec! --list us  - displays list of available specs that satisfy <us> pattern
-  TEXT
-
-  def run
-    if ARGV.size == 0
-      puts USAGE and return
-    end
-
-    case ARGV[0]
-
-      when /(-v)|(--version)/
-        puts "spec! version: #{SmartSpecs::VERSION}"
-
-      when /(-i)|(--list)/
-        pattern = (ARGV.size > 1) ? ARGV[1] : ""
-
-        list = @spec.spec_files(pattern)
-
-        puts list
-
-      else
-        line_number = 0
-        pattern = ARGV[0]
-
-        if ARGV.size > 2
-          arg = ARGV[1]
-
-          if arg =~ /(-l)|(--line)/
-            line_number = ARGV[2]
-          end
-        end
-
-        @spec.execute(pattern, line_number)
-    end
-  end
-end
-
-Runner.new.run
+SmartSpecs::Cli.new(".").run ARGV

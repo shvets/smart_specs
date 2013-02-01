@@ -1,10 +1,10 @@
-# SmartSpecs - This script
+# SmartSpecs - This tool helps to execute specs by pattern
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to to your Gemfile:
 
-    gem 'script_executor'
+    gem "smart_specs"
 
 And then execute:
 
@@ -12,14 +12,14 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install script_executor
+    $ gem install smart_specs
 
 ## Usage
 
-     spec! user       - executes spec based on <user> pattern
-     spec! user -l 65 - executes spec based on <user> pattern in line 65
-     spec! --list     - displays list of all available specs
-     spec! --list us  - displays list of available specs that satisfy <us> pattern
+    spec! user       - executes spec based on <user> pattern
+    spec! user -l 65 - executes spec based on <user> pattern in line 65
+    spec! --list     - displays list of all available specs
+    spec! --list us  - displays list of available specs that satisfies <us> pattern
 
 ## Contributing
 

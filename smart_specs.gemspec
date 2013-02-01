@@ -4,8 +4,8 @@ require File.expand_path(File.dirname(__FILE__) + '/lib/smart_specs/version')
 
 Gem::Specification.new do |spec|
   spec.name          = "smart_specs"
-  spec.summary       = %q{This tool helps to quickly execute specs}
-  spec.description   = %q{This tool helps to quickly execute specs}
+  spec.summary       = %q{This tool helps to execute specs by pattern}
+  spec.description   = %q{This tool helps to execute specs by pattern}
   spec.email         = "alexander.shvets@gmail.com"
   spec.authors       = ["Alexander Shvets"]
   spec.homepage      = "http://github.com/shvets/smart_specs"
