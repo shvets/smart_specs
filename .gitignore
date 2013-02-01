@@ -6,4 +6,5 @@ pkg
 rdoc
 tmp
 .idea/*.*
+*.gem
 
