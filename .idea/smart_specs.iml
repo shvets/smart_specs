@@ -20,6 +20,7 @@
     <orderEntry type="library" scope="PROVIDED" name="gemspec_deps_gen (v1.0.5, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="highline (v1.6.15, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="metaclass (v0.0.1, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mocha (v0.13.2, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="net-ssh (v2.6.3, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="script_executor (v1.2.1, RVM: ruby-1.9.3-p374 [smart_specs]) [gem]" level="application" />
   </component>
