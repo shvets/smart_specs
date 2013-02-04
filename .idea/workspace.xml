@@ -2,22 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1b53eed-4217-450f-8d82-ae55f184ac5f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/smart_specs/cli.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/smart_specs/smart_spec.rb" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rspec!" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHANGES" afterPath="$PROJECT_DIR$/CHANGES" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smart_specs/cli.rb" afterPath="$PROJECT_DIR$/lib/smart_specs/cli.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smart_specs.iml" afterPath="$PROJECT_DIR$/.idea/smart_specs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smart_specs.gemspec" afterPath="$PROJECT_DIR$/smart_specs.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smart_specs.rb" afterPath="$PROJECT_DIR$/lib/smart_specs.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/spec!" afterPath="$PROJECT_DIR$/bin/spec!" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smart_specs/version.rb" afterPath="$PROJECT_DIR$/lib/smart_specs/version.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="smart_specs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359741659346" ignored="false" />
-    <file path="/.gitignore" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359741715491" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360018107836" ignored="false" />
+    <file path="/.gitignore" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359741770811" ignored="false" />
+    <file path="/cli.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842377608" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/bin/ffgrab" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359914585560" ignored="false" />
+    <file path="/ffgrab" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359914511677" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/Gemfile" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842022639" ignored="false" />
+    <file path="/Gemfile" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359841841768" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/rspec-core-2.12.2/lib/rspec/core.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/json_pure-1.7.6/lib/json/common.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/highline-1.6.15/lib/highline.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/resource_accessor-1.0.0/lib/resource_accessor/resource_accessor.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359900920390" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/rspec-core-2.12.2/lib/rspec/core/shared_example_group.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/rspec-core-2.12.2/lib/rspec/core/extensions/kernel.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/rspec-core-2.12.2/lib/rspec/core/subject.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/mocha-0.13.2/lib/mocha/object_methods.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/russian-0.6.0/lib/russian.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359842016821" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@etv/gems/smart_specs-1.0.0/lib/smart_specs/cli.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360016836834" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/etv/engine/cookie_helper.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359912007630" ignored="false" />
+    <file path="/cookie_helper.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359911981101" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/etv/main.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359899359478" ignored="false" />
+    <file path="/main.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359893240333" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/etv/engine/page/access_page.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359911518156" ignored="false" />
+    <file path="/access_page.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359911509849" ignored="false" />
+    <file path="/resource_accessor.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359900693631" ignored="false" />
+    <file path="/fragment.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359900832714" ignored="false" />
+    <file path="/temp.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359908673872" ignored="false" />
+    <file path="/link_info.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359908927368" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/etv/engine/link_info.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359908973940" ignored="false" />
+    <file path="/a.dummy" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359909562920" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/spec/etv_spec.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359909616927" ignored="false" />
+    <file path="/etv_spec.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359909616543" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/media_adapter.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360017036869" ignored="false" />
+    <file path="/media_adapter.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360017023235" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/lib/etv/engine/cookie.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359914188516" ignored="false" />
+    <file path="/cookie.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359914184557" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/spec/resource_accessor_spec.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359917312620" ignored="false" />
+    <file path="$PROJECT_DIR$/../etv/spec/media_adapter_spec.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360017004572" ignored="false" />
+    <file path="/media_adapter_spec.rb" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1359918508144" ignored="false" />
+    <file path="/CHANGES" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360018136574" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +67,73 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.1179941">
+            <state line="10" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smart_specs.gemspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smart_specs.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smart_specs.gemspec.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smart_specs.gemspec.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/smart_specs/cli.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="47" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CHANGES" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CHANGES">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="11" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/smart_specs/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.07855974">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -63,12 +159,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/lib/smart_specs/cli.rb" />
+        <option value="$PROJECT_DIR$/CHANGES" />
+        <option value="$PROJECT_DIR$/lib/smart_specs/version.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="239" />
-    <option name="y" value="71" />
+    <option name="y" value="22" />
     <option name="width" value="1324" />
     <option name="height" value="1028" />
   </component>
@@ -98,7 +197,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,16 +215,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart_specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart_specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart_specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart_specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart_specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -156,29 +288,39 @@
       <created>1359741657015</created>
       <updated>1359741657015</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial release">
+      <created>1359741760549</created>
+      <updated>1359741760549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial release">
+      <created>1359741822535</created>
+      <updated>1359741822535</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="71" width="1324" height="1028" extended-state="0" />
-    <editor active="false" />
+    <frame x="239" y="22" width="1324" height="1028" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24330118" sideWeight="0.98435056" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31511253" sideWeight="0.98435056" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20970266" sideWeight="0.75669885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22691706" sideWeight="0.68488747" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946298" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -219,7 +361,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial release" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -232,14 +374,114 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="initial release" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/smart_specs.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart_specs.gemspec.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smart_specs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smart_specs/cli.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.1179941">
+        <state line="10" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart_specs.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart_specs.gemspec.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smart_specs.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smart_specs/cli.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGES">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smart_specs/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.07855974">
           <folding />
         </state>
       </provider>

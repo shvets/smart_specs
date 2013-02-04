@@ -65,7 +65,7 @@ module SmartSpecs
         arg = params[1]
 
         if arg =~ /(-l)|(--line)/
-          line_number = params[2]
+          line_number = params[2].to_i
         end
       end
 
@@ -89,7 +89,9 @@ module SmartSpecs
     end
 
     def execute spec_name, line_number
-      cmd = "spec"
+      spec_version = Gem.searcher.find("rspec").version.to_s
+
+      cmd = (spec_version =~ /^2/) ?"rspec" : "spec"
 
       cmd += " #{spec_name}"
 
