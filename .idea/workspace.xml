@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1b53eed-4217-450f-8d82-ae55f184ac5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHANGES" afterPath="$PROJECT_DIR$/CHANGES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smart_specs/cli.rb" afterPath="$PROJECT_DIR$/lib/smart_specs/cli.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smart_specs.gemspec" afterPath="$PROJECT_DIR$/smart_specs.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smart_specs.iml" afterPath="$PROJECT_DIR$/.idea/smart_specs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/smart_specs/version.rb" afterPath="$PROJECT_DIR$/lib/smart_specs/version.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d1b53eed-4217-450f-8d82-ae55f184ac5f" name="Default" comment="" />
     <ignored path="smart_specs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d1b53eed-4217-450f-8d82-ae55f184ac5f" time="1360087073169" ignored="false" />
@@ -145,7 +138,7 @@
       <file leaf-file-name="CHANGES" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CHANGES">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="111" selection-end="111" vertical-scroll-proportion="0.27210885">
+            <state line="8" column="94" selection-start="93" selection-end="93" vertical-scroll-proportion="0.21768707">
               <folding />
             </state>
           </provider>
@@ -535,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGES">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="111" selection-end="111" vertical-scroll-proportion="0.27210885">
+        <state line="8" column="94" selection-start="93" selection-end="93" vertical-scroll-proportion="0.21768707">
           <folding />
         </state>
       </provider>
