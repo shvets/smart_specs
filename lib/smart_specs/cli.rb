@@ -82,7 +82,7 @@ module SmartSpecs
 
         choice = ask("Select spec:")
 
-        execute list[choice.to_i], 0
+        execute list[choice.to_i-1], 0
       else
         execute list.first, line_number
       end
